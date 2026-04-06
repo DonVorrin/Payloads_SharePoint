@@ -1,0 +1,6 @@
+<WebPart xmlns="http://schemas.microsoft.com/WebPart/v2">
+  <Title>Type Test</Title>
+  <Content><![CDATA[
+    <asp:Label runat="server" Text="test"></asp:Label>
+  ]]></Content>
+</WebPart>
