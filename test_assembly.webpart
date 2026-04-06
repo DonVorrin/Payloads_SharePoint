@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebPart xmlns="http://schemas.microsoft.com/WebPart/v2">
+  <Title>Test</Title>
+  <Description>Test</Description>
+  <Assembly>Microsoft.SharePoint, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c</Assembly>
+  <TypeName>Microsoft.SharePoint.WebPartPages.ContentEditorWebPart</TypeName>
+  <Content><![CDATA[
+    <h1>Test</h1>
+  ]]></Content>
+</WebPart>
