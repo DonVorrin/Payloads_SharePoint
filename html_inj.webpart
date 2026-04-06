@@ -1,0 +1,7 @@
+<WebPart xmlns="http://schemas.microsoft.com/WebPart/v2">
+  <Title>HTML Test</Title>
+  <Content><![CDATA[
+    <h1>Injected</h1>
+    <iframe src="https://example.com"></iframe>
+  ]]></Content>
+</WebPart>
