@@ -1,0 +1,6 @@
+<WebPart xmlns="http://schemas.microsoft.com/WebPart/v2">
+  <Title>SSRF Test</Title>
+  <Content><![CDATA[
+    <img src="http://YOUR-BURP-COLLABORATOR">
+  ]]></Content>
+</WebPart>
