@@ -1,0 +1,4 @@
+<asp:ObjectDataSource ID="ds" runat="server"
+  TypeName="System.Environment"
+  SelectMethod="GetEnvironmentVariables">
+</asp:ObjectDataSource>
