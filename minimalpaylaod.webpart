@@ -1,0 +1,6 @@
+<WebPart xmlns="http://schemas.microsoft.com/WebPart/v2">
+  <Title>Minimal</Title>
+  <Content><![CDATA[
+    test
+  ]]></Content>
+</WebPart>
